@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Museum.unity
-    guid: 855337a7c0d033c4f8240cb91b1e99e2
+    path: Assets/Scenes/OuterMuseum.unity
+    guid: cbd98daf037d444419859f99aa4c276b
