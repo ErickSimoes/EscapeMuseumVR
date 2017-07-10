@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 67e3b4e985777684da50f13222c7e29d
+timeCreated: 1499643428
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base_1
+    100002: Base_2
+    100004: Coin
+    100006: Flag
+    100008: Fountain
+    100010: Jar
+    100012: Key
+    100014: //RootNode
+    100016: Pillar
+    100018: Post_Sign
+    100020: PP_Pillar
+    100022: PP_Pillar_Extension_A
+    100024: PP_Pillar_Extension_B
+    100026: PP_Wall_A
+    100028: PP_Wall_B
+    100030: Terrain
+    100032: The_Temple
+    100034: Tree
+    400000: Base_1
+    400002: Base_2
+    400004: Coin
+    400006: Flag
+    400008: Fountain
+    400010: Jar
+    400012: Key
+    400014: //RootNode
+    400016: Pillar
+    400018: Post_Sign
+    400020: PP_Pillar
+    400022: PP_Pillar_Extension_A
+    400024: PP_Pillar_Extension_B
+    400026: PP_Wall_A
+    400028: PP_Wall_B
+    400030: Terrain
+    400032: The_Temple
+    400034: Tree
+    2300000: Base_1
+    2300002: Base_2
+    2300004: Coin
+    2300006: Flag
+    2300008: Fountain
+    2300010: Jar
+    2300012: Key
+    2300014: Pillar
+    2300016: Post_Sign
+    2300018: PP_Pillar
+    2300020: PP_Pillar_Extension_A
+    2300022: PP_Pillar_Extension_B
+    2300024: PP_Wall_A
+    2300026: PP_Wall_B
+    2300028: Terrain
+    2300030: The_Temple
+    2300032: Tree
+    3300000: Base_1
+    3300002: Base_2
+    3300004: Coin
+    3300006: Flag
+    3300008: Fountain
+    3300010: Jar
+    3300012: Key
+    3300014: Pillar
+    3300016: Post_Sign
+    3300018: PP_Pillar
+    3300020: PP_Pillar_Extension_A
+    3300022: PP_Pillar_Extension_B
+    3300024: PP_Wall_A
+    3300026: PP_Wall_B
+    3300028: Terrain
+    3300030: The_Temple
+    3300032: Tree
+    4300000: Pillar
+    4300002: The_Temple
+    4300004: Terrain
+    4300006: Base_1
+    4300008: Base_2
+    4300010: Flag
+    4300012: Tree
+    4300014: Fountain
+    4300016: Key
+    4300018: Post_Sign
+    4300020: Jar
+    4300022: Coin
+    4300024: PP_Wall_B
+    4300026: PP_Wall_A
+    4300028: PP_Pillar_Extension_B
+    4300030: PP_Pillar_Extension_A
+    4300032: PP_Pillar
+    7400000: Pillar|The_Temple.001Action
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
