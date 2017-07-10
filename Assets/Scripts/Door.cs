@@ -2,12 +2,23 @@
 
 public class Door : MonoBehaviour {
 
+	private Animator doorAnimatior;
+
+	private Animator DoorAnimatior {
+		get {
+			if (!doorAnimatior) {
+				doorAnimatior = GetComponent<Animator>();
+			}
+			return doorAnimatior;
+		}
+	}
+
 	void Start() {
-		GetComponent<Animator>().StartPlayback();
+		DoorAnimatior.StartPlayback();
 	}
 
 	public void OpenDoor() {
-		GetComponent<Animator>().StopPlayback();
+		DoorAnimatior.StopPlayback();
 	}
 
 }
