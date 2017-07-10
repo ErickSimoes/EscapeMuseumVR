@@ -15,6 +15,8 @@ public class Waypoint : MonoBehaviour {
 		Hidden
 	}
 
+	private GameObject player;
+
 	[SerializeField]
 	private State _state = State.Idle;
 	private Color _color_origional = new Color(0.0f, 1.0f, 0.0f, 0.5f);
@@ -23,9 +25,6 @@ public class Waypoint : MonoBehaviour {
 	private float _animated_lerp = 1.0f;
 	private AudioSource _audio_source = null;
 	private Material _material = null;
-
-	[Header("Player To Move")]
-	public GameObject Player;
 
 	[Header("Material")]
 	public Material material = null;
@@ -63,9 +62,12 @@ public class Waypoint : MonoBehaviour {
 		GetComponent<ParticleSystem>().Stop();
 	}
 
+	void Start() {
+		player = GameObject.FindGameObjectWithTag("Player");
+	}
 
 	void Update() {
-		bool occupied = Player.transform.position == gameObject.transform.position;
+		bool occupied = player.transform.position == gameObject.transform.position;
 
 		switch (_state) {
 			case State.Idle:
@@ -128,7 +130,7 @@ public class Waypoint : MonoBehaviour {
 
 		_audio_source.Play();
 
-		Player.transform.position = gameObject.transform.position;
+		player.transform.position = gameObject.transform.position;
 	}
 
 
