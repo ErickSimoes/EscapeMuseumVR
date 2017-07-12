@@ -825,7 +825,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 433157b623e61e24298b545d4f8d2b02, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 433157b623e61e24298b545d4f8d2b02, type: 3}
       propertyPath: m_LocalScale.x
@@ -1452,7 +1452,7 @@ GameObject:
   - component: {fileID: 523869057}
   - component: {fileID: 523869056}
   m_Layer: 5
-  m_Name: Canvas Potato
+  m_Name: Canvas Pictures Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1471,7 +1471,7 @@ RectTransform:
   - {fileID: 1113801813}
   - {fileID: 1599363117}
   m_Father: {fileID: 1013053211}
-  m_RootOrder: 1
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 20, y: 270, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1641,7 +1641,7 @@ GameObject:
   - component: {fileID: 588202024}
   - component: {fileID: 588202023}
   m_Layer: 0
-  m_Name: painting (1)
+  m_Name: painting
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1653,13 +1653,13 @@ Transform:
   m_PrefabParentObject: {fileID: 400024, guid: 6b5d5e509ebaac4468aa33411ff8835a, type: 3}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 588202021}
-  m_LocalRotation: {x: 0.70776725, y: 0.00000023841858, z: 0.00000020861626, w: 0.7064457}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.92027265, y: 0.92027134, z: 0.92027193}
+  m_LocalRotation: {x: 0.5005181, y: 0.49948224, z: -0.5004161, w: 0.49958283}
+  m_LocalPosition: {x: 0.005, y: 0, z: 0.0246}
+  m_LocalScale: {x: 1.3127538, y: 0.8545112, z: 0.92027193}
   m_Children: []
   m_Father: {fileID: 1196806856}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 270}
+  m_LocalEulerAnglesHint: {x: 89.899, y: 0, z: 269.905}
 --- !u!23 &588202023
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1674,7 +1674,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 623c8ecb420b08947b7430030eb53ee9, type: 2}
+  - {fileID: 2100000, guid: 6fd9e10c78fe0cf46899bf4b3cbe8b62, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2593,10 +2593,10 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1287825243}
-  - {fileID: 523869055}
-  - {fileID: 364564855}
-  - {fileID: 1196806856}
   - {fileID: 2001513463}
+  - {fileID: 1196806856}
+  - {fileID: 364564855}
+  - {fileID: 523869055}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2621,7 +2621,7 @@ GameObject:
   - component: {fileID: 1113801815}
   - component: {fileID: 1113801814}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: Potato Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2877,7 +2877,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 623c8ecb420b08947b7430030eb53ee9, type: 2}
+  - {fileID: 2100000, guid: f6091c9492c73de4292f0fbd61d212e6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3240,35 +3240,35 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.7910013
+      value: 0.5896
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.5673294
+      value: 0.573
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.5
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.5
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.5
+      value: 0.000046394758
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.5
+      value: -0.000046394758
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_Name
-      value: frames (1)
+      value: Moulin
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -3276,15 +3276,15 @@ Prefab:
       objectReference: {fileID: 2100000, guid: 111e847725493f44c91a09e4b24fd947, type: 2}
     - target: {fileID: 400000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -90
+      value: -0.008
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 270
+      value: 180.00002
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.760645
+      value: 0.6832287
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_LocalScale.y
@@ -3292,11 +3292,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.7606454
+      value: 0.8884846
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90.00001
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
@@ -3317,7 +3321,7 @@ GameObject:
   - component: {fileID: 1599363119}
   - component: {fileID: 1599363118}
   m_Layer: 5
-  m_Name: Panel (1)
+  m_Name: Dora Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3329,9 +3333,10 @@ RectTransform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1599363116}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0.0000000074505797, y: 0.000000029802319, z: 0.0000000074505797,
+    w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.0018784, y: 1.0018787, z: 0}
+  m_LocalScale: {x: 1.0018795, y: 1.0018791, z: 0}
   m_Children:
   - {fileID: 867223905}
   m_Father: {fileID: 523869055}
@@ -3339,7 +3344,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 3041, y: 0.0026755333}
+  m_AnchoredPosition: {x: 3040.9097, y: -0.07351169}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1599363118
@@ -3922,7 +3927,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2001513463}
   m_Layer: 0
-  m_Name: PIC-FRAME-FBX
+  m_Name: dora
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3942,7 +3947,7 @@ Transform:
   - {fileID: 103657638}
   - {fileID: 1406014355}
   m_Father: {fileID: 1013053211}
-  m_RootOrder: 4
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &2058310381
 GameObject:
