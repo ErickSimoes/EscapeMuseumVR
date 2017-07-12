@@ -18,8 +18,6 @@ public class UIStartInstructions : MonoBehaviour {
 		instructions.Add("Enter the museum and\nlearn about great artists");
 		instructions.Add("Look at the paintings\nand answer the questions");
 		instructions.Add("Good luck\nand enjoy!");
-
-
 	}
 
 	public void OnClick() {
