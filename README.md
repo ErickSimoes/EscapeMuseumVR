@@ -18,10 +18,10 @@ Enter this art museum and learn about great artists from various eras. In each t
 > Note: It is necessary to use a virtual reality glasses such as **Google Cardboard** or similar.
 
 ### Features
+* On the home screen, the player is presented with the instructions before starting;
 * The museum door opens only when the player approaches.
 
 ### Future features
-* On the home screen, the player is presented with the instructions before starting;
 * Modify particulates emitted by Waypoints;
 * Remove skybox from scenes that are only internal;
 * When the answer is correct, the light goes out and when it lights up, the player is in another scene;
