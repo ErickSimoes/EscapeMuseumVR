@@ -8,7 +8,7 @@ Virtual Reality Project for the [Udacity VR Developer Nanodegree Program](https:
 * **Author**: [Erick Simões](https://github.com/ErickSimoes)
 * **Time to complete the project**: 8h
 * **Target platform**: Android 4.4
-* **Unity Version**: Unity 5.6.2p2
+* **Unity Version**: 2017.1.0f3
 * **Google VR SDK Version**: GVR Unity v1.60.0
 * **I liked**: Mount the scenery and atmosphere.
 * **It was challenging**: Fix the codes that did not work.
