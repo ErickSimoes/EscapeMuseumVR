@@ -19,6 +19,7 @@ public class Door : MonoBehaviour {
 
 	public void OpenDoor() {
 		DoorAnimatior.StopPlayback();
+		GetComponent<BoxCollider>().enabled = false;
 	}
 
 }

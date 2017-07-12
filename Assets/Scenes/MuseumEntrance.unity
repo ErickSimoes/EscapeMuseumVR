@@ -3143,6 +3143,18 @@ Canvas:
 GameObject:
   m_PrefabParentObject: {fileID: 100000, guid: 49026cfa3a9dfcf45ba4d3b040975c11, type: 3}
   m_PrefabInternal: {fileID: 94388788}
+--- !u!65 &983359604
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 983359603}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 18.629692, y: 7.8616657, z: 4.7470703}
+  m_Center: {x: -0.33785248, y: 4.843667, z: 2.1806717}
 --- !u!4 &983359605 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 49026cfa3a9dfcf45ba4d3b040975c11, type: 3}
