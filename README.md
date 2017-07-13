@@ -19,12 +19,12 @@ Enter this art museum and learn about great artists from various eras. In each t
 
 ### Features
 * On the home screen, the player is presented with the instructions before starting;
-* The museum door opens only when the player approaches.
+* The museum door opens only when the player approaches;
+* When the answer is correct, the light goes out and when it lights up, the player is in another scene.
 
 ### Future features
 * Modify particulates emitted by Waypoints;
 * Remove skybox from scenes that are only internal;
-* When the answer is correct, the light goes out and when it lights up, the player is in another scene;
 * Enrich the rooms with more themed objects;
 * There is visual and audible feedback for correct and wrong questions answered;
 * There is a different ambient music for each room.
