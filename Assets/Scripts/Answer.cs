@@ -16,9 +16,8 @@ public class Answer : MonoBehaviour {
 	public void LoadNextScene(bool isTheCorrect) {
 		if (isTheCorrect) {
 			StartCoroutine(FadeAndOut());
-			print("Acabou");
 		} else {
-			//TODO: feedback  for error
+			//TODO: feedback for error
 		}
 	}
 
@@ -34,12 +33,13 @@ public class Answer : MonoBehaviour {
 	}
 
 	IEnumerator FadeAndOut() {
-		for (float i = 0; i < 1; i = i + 0.01f) {
-			panel.color = new Color(0f, 0f, 0f, i);
+		float startTime = Time.time;
+		float step;
+		while (panel.color != Color.black) {
+			step = (Time.time - startTime) / (duration / 3);
+			panel.color = Color.Lerp(Color.clear, Color.black, step);
 			yield return null;
 		}
-
 		SceneManager.LoadScene(nextScene);
-		yield return new WaitForSeconds(2f);
 	}
 }
