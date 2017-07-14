@@ -7,6 +7,7 @@ public class Answer : MonoBehaviour {
 
 	public string nextScene;
 	public Image panel;
+	public AudioSource failSound;
 	private float duration = 3f;
 
 	void Start() {
@@ -17,7 +18,7 @@ public class Answer : MonoBehaviour {
 		if (isTheCorrect) {
 			StartCoroutine(FadeAndOut());
 		} else {
-			//TODO: feedback for error
+			failSound.Play();
 		}
 	}
 
