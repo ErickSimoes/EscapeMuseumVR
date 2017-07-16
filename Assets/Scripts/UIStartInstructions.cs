@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -11,7 +10,7 @@ public class UIStartInstructions : MonoBehaviour {
 	private List<string> instructions = new List<string>();
 	private int i = 0;
 
-	void Start () {
+	void Start() {
 		welcomeText = GetComponentInChildren<Text>();
 		buttonText = GetComponentInChildren<Button>();
 
