@@ -4451,7 +4451,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   raycastMode: 0
   ignoreReversedGraphics: 1
-  blockingObjects: 0
+  blockingObjects: 3
   blockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
