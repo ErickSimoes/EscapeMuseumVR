@@ -87,7 +87,7 @@ LightmapSettings:
     m_PVRFilteringAtrousColorSigma: 1
     m_PVRFilteringAtrousNormalSigma: 1
     m_PVRFilteringAtrousPositionSigma: 1
-  m_LightingDataAsset: {fileID: 112000002, guid: 5072f41c9c3d11e4e9b0b6e198b32046,
+  m_LightingDataAsset: {fileID: 112000002, guid: 710cb93c06b63024dade0f027497a70a,
     type: 2}
   m_UseShadowmask: 0
 --- !u!196 &5
@@ -2765,7 +2765,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 983359603}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d3920629c91ad7f4487dc0cdd7ffc686, type: 3}
   m_Name: 
