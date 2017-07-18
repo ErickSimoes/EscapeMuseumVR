@@ -24,7 +24,6 @@ Enter this art museum and learn about great artists from various eras. In each t
 * There is visual and audible feedback for correct and wrong questions answered.
 
 ### Future features
-* Modify particulates emitted by Waypoints;
-* Remove skybox from scenes that are only internal;
 * Enrich the rooms with more themed objects;
-* There is a different ambient music for each room.
+* There is a different ambient music for each room;
+* Add scoring system.
