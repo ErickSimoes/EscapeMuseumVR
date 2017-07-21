@@ -2091,7 +2091,7 @@ MonoBehaviour:
   gainDb: 0
   occlusionEnabled: 0
   playOnAwake: 1
-  sourceClip: {fileID: 8300000, guid: 9d14b8d71a33f3047ae1fbc117166e97, type: 3}
+  sourceClip: {fileID: 8300000, guid: 9bbb101f18de9534988e99c6c3021cb9, type: 3}
   sourceLoop: 1
   sourceMute: 0
   sourcePitch: 1
@@ -2099,7 +2099,7 @@ MonoBehaviour:
   sourceSpatialBlend: 1
   sourceDopplerLevel: 1
   sourceSpread: 0
-  sourceVolume: 0.2
+  sourceVolume: 0.5
   sourceRolloffMode: 1
   sourceMaxDistance: 15
   sourceMinDistance: 1
