@@ -3088,7 +3088,7 @@ GameObject:
   - component: {fileID: 1113801815}
   - component: {fileID: 1113801814}
   m_Layer: 5
-  m_Name: Potato Panel
+  m_Name: Dead Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4110,8 +4110,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Vincent van Gogh (1885)\nThe Potato Eaters\n(Dutch: De Aardappeleters)\nOil
-    Painting, 82 cm \xD7 114 cm\nVan Gogh Museum, Amsterdam"
+  m_Text: "Pieter Bruegel the Elder\nThe Triumph of Death (1562)\nOil Painting, 117
+    cm \xD7 162 cm\nMuseo del Prado, Madrid"
 --- !u!222 &1481804468
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4224,6 +4224,10 @@ Prefab:
       propertyPath: m_ReflectionProbeUsage
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2378912, guid: 14691c451e07ff94cb94be3f44e72ab7, type: 2}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 166f0e2fd06a1fb45a6890c272e8d6e4, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 14691c451e07ff94cb94be3f44e72ab7, type: 2}
   m_IsPrefabParent: 0
