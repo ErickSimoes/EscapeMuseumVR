@@ -21,9 +21,9 @@ Enter this art museum and learn about great artists from various eras. In each t
 * On the home screen, the player is presented with the instructions before starting;
 * The museum door opens only when the player approaches;
 * When the answer is correct, the light goes out and when it lights up, the player is in another scene;
-* There is visual and audible feedback for correct and wrong questions answered.
+* There is visual and audible feedback for correct and wrong questions answered;
+* There is a different ambient music for each room.
 
 ### Future features
 * Enrich the rooms with more themed objects;
-* There is a different ambient music for each room;
 * Add scoring system.
