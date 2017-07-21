@@ -569,7 +569,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 4f1ed71b5c989ad49a0873c6fea691d9, type: 2}
+  - {fileID: 2100000, guid: d2cd6c00c483ff14f8558601c08a7028, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -605,7 +605,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: 433157b623e61e24298b545d4f8d2b02, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.163763
+      value: -3.171
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 433157b623e61e24298b545d4f8d2b02, type: 3}
       propertyPath: m_LocalPosition.y
@@ -665,7 +665,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 433157b623e61e24298b545d4f8d2b02, type: 3}
       propertyPath: m_Name
-      value: adele
+      value: Belsazar
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 433157b623e61e24298b545d4f8d2b02, type: 3}
@@ -1871,8 +1871,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Gustav Klimt (1905)\nPortrait of Adele Bloch-Bauer I\nOil, silver, and
-    gold on canvas\n138 cm \xD7 138 cm\nNeue Galerie, New York"
+  m_Text: "Rembrandt (1635\r)\nBelshazzar Feast\nOil on canvas, 167.6 cm x 209.2 cm\nNational
+    Gallery, London"
 --- !u!222 &711302977
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4326,7 +4326,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_Name
-      value: moulin
+      value: massacre
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -4810,7 +4810,7 @@ GameObject:
   - component: {fileID: 1889291050}
   - component: {fileID: 1889291049}
   m_Layer: 5
-  m_Name: Potato Panel
+  m_Name: Belsazar Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5157,7 +5157,7 @@ GameObject:
   - component: {fileID: 2091191887}
   - component: {fileID: 2091191886}
   m_Layer: 5
-  m_Name: Dora Panel
+  m_Name: Massacre Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
