@@ -569,7 +569,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: d2cd6c00c483ff14f8558601c08a7028, type: 2}
+  - {fileID: 2100000, guid: 2f95be2d348e84940807aa4b6b3ec909, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1871,8 +1871,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Rembrandt (1635\r)\nBelshazzar Feast\nOil on canvas, 167.6 cm x 209.2 cm\nNational
-    Gallery, London"
+  m_Text: "Tarsila do Amaral (1928)\nAbaporu\nOil on canvas, 85 cm  \xD7 72 cm\nMALBA,
+    Buenos Aires"
 --- !u!222 &711302977
 CanvasRenderer:
   m_ObjectHideFlags: 0
