@@ -12,5 +12,8 @@ EditorBuildSettings:
     path: Assets/Scenes/02-Museum.unity
     guid: 18bcd062e22cad849b8af34eafd94cb2
   - enabled: 1
+    path: Assets/Scenes/03-Museum.unity
+    guid: e6b1864ef784759499f081e171a7a0a7
+  - enabled: 1
     path: Assets/Scenes/BaseScene.unity
     guid: cbd98daf037d444419859f99aa4c276b
