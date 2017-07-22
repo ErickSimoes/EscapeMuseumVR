@@ -1495,8 +1495,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Peter Paul Rubens (1636-1638)\nLe Massacre des Innocents\nOil on oak, 142
-    cm \xD7 182 cm\nAlte Pinakothek, Munique, Alemanha"
+  m_Text: "Peter Paul Rubens (1611\u201312)\nLe Massacre des Innocents\nOil on oak,
+    142 cm \xD7 182 cm\nAlte Pinakothek, Munich, Germany"
 --- !u!222 &559139495
 CanvasRenderer:
   m_ObjectHideFlags: 0
