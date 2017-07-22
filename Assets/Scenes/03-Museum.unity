@@ -1495,8 +1495,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Peter Paul Rubens (1611\u201312)\nLe Massacre des Innocents\nOil on oak,
-    142 cm \xD7 182 cm\nAlte Pinakothek, Munich, Germany"
+  m_Text: "Gilvan Samico (2002)\nA cria\xE7\xE3o das sereias\nWoodcut, 55.5 cm x 91
+    cm\nPinacoteca do Estado de S\xE3o Paulo"
 --- !u!222 &559139495
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1586,7 +1586,7 @@ Transform:
   m_GameObject: {fileID: 588202021}
   m_LocalRotation: {x: 0.5005181, y: 0.49948224, z: -0.5004161, w: 0.49958283}
   m_LocalPosition: {x: 0.005, y: 0, z: 0.0246}
-  m_LocalScale: {x: 1.3127538, y: 0.8545112, z: 0.92027193}
+  m_LocalScale: {x: 1.0297892, y: 0.8329374, z: 0.92027193}
   m_Children: []
   m_Father: {fileID: 1196806856}
   m_RootOrder: 0
@@ -1605,7 +1605,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 67a5b0a09e52f7d469b2d4bcee2f61c7, type: 2}
+  - {fileID: 2100000, guid: 55c5c53f824238648a41b6b8ae2ce33d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4816,7 +4816,7 @@ GameObject:
   - component: {fileID: 1889291050}
   - component: {fileID: 1889291049}
   m_Layer: 5
-  m_Name: Belsazar Panel
+  m_Name: Apaporu Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5163,7 +5163,7 @@ GameObject:
   - component: {fileID: 2091191887}
   - component: {fileID: 2091191886}
   m_Layer: 5
-  m_Name: Massacre Panel
+  m_Name: Sereias Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
