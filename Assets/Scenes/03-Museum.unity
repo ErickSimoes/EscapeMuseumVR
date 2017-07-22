@@ -2448,8 +2448,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Francisco de Goya (1797)\nEl Aquelarre\nOil Painting, 43  cm \xD7 30 cm\nMuseo
-    L\xE1zaro Galdiano, Madrid"
+  m_Text: "C\xE2ndido Portinari (1934)\nMesti\xE7o\nOil Painting, 81 cm x 65 cm\nPinacoteca
+    de S\xE3o Paulo"
 --- !u!222 &867223907
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3837,7 +3837,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 756b67d61d735db4db126d099b1bd1d5, type: 2}
+  - {fileID: 2100000, guid: 432967258569e444886610a253a5eaed, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4395,7 +4395,7 @@ GameObject:
   - component: {fileID: 1599363119}
   - component: {fileID: 1599363118}
   m_Layer: 5
-  m_Name: Aguelarre Panel
+  m_Name: Mestico Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
