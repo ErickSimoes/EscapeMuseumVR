@@ -1495,8 +1495,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Gilvan Samico (2002)\nA cria\xE7\xE3o das sereias\nWoodcut, 55.5 cm x 91
-    cm\nPinacoteca do Estado de S\xE3o Paulo"
+  m_Text: 'Gustave Courbet (1844-45)
+
+    The Desperate Man
+
+    Oil Paint, 45 cm x 55 cm'
 --- !u!222 &559139495
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1605,7 +1608,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 55c5c53f824238648a41b6b8ae2ce33d, type: 2}
+  - {fileID: 2100000, guid: d5b7fcdccbc3de04d97bd5fe02688958, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5175,7 +5178,7 @@ GameObject:
   - component: {fileID: 2091191887}
   - component: {fileID: 2091191886}
   m_Layer: 5
-  m_Name: Sereias Panel
+  m_Name: Gustave Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
