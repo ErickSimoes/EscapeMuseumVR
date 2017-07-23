@@ -2541,7 +2541,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 037ab7b90653f3e408bd6bb610e8a47f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextScene: 02-Museum
+  nextScene: {fileID: 102900000, guid: 18bcd062e22cad849b8af34eafd94cb2, type: 3}
   panel: {fileID: 1656200110}
   failSound: {fileID: 748017657}
 --- !u!4 &748017656
