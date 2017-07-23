@@ -549,7 +549,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 136432478}
   m_LocalRotation: {x: 0, y: -0, z: 0.7071068, w: -0.7071068}
-  m_LocalPosition: {x: -0.36, y: -0, z: -0}
+  m_LocalPosition: {x: -0.15, y: -0, z: -0}
   m_LocalScale: {x: 1.1796592, y: 1.3798289, z: 1.4662832}
   m_Children: []
   m_Father: {fileID: 364564855}
@@ -569,7 +569,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 2f95be2d348e84940807aa4b6b3ec909, type: 2}
+  - {fileID: 2100000, guid: 5ca0519565880394dbb14f78b1f55bcc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -665,7 +665,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 433157b623e61e24298b545d4f8d2b02, type: 3}
       propertyPath: m_Name
-      value: Belsazar
+      value: portinari
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 433157b623e61e24298b545d4f8d2b02, type: 3}
@@ -1874,8 +1874,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Tarsila do Amaral (1928)\nAbaporu\nOil on canvas, 85 cm  \xD7 72 cm\nMALBA,
-    Buenos Aires"
+  m_Text: "C\xE2ndido Portinari (1957)\nAutorretrato\nOil on wood, 55 cm x 46 cm\nPrivate
+    Collection"
 --- !u!222 &711302977
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4345,7 +4345,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_Name
-      value: massacre
+      value: gustave
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 84ec8da49ba154a48841857ac4062ecb, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -4831,7 +4831,7 @@ GameObject:
   - component: {fileID: 1889291050}
   - component: {fileID: 1889291049}
   m_Layer: 5
-  m_Name: Apaporu Panel
+  m_Name: Portinari Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
