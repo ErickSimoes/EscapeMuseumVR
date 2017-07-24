@@ -2,11 +2,10 @@
 using System.Collections;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-using UnityEditor;
 
 public class Answer : MonoBehaviour {
 
-	public SceneAsset nextScene;
+	public string nextScene;
 	public Image panel;
 	public AudioSource failSound;
 	private float duration = 3f;
@@ -42,6 +41,6 @@ public class Answer : MonoBehaviour {
 			panel.color = Color.Lerp(Color.clear, Color.black, step);
 			yield return null;
 		}
-		SceneManager.LoadScene(nextScene.name);
+		SceneManager.LoadScene(nextScene);
 	}
 }
