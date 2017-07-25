@@ -872,8 +872,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 136432478}
   m_LocalRotation: {x: 0, y: -0, z: 0.7071068, w: -0.7071068}
-  m_LocalPosition: {x: -0.36, y: -0, z: -0}
-  m_LocalScale: {x: 1.1796592, y: 1.3798289, z: 1.4662832}
+  m_LocalPosition: {x: 0.02, y: -0, z: -0}
+  m_LocalScale: {x: 1.1796592, y: 1.1513872, z: 1.4662832}
   m_Children: []
   m_Father: {fileID: 364564855}
   m_RootOrder: 0
@@ -892,7 +892,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 4f1ed71b5c989ad49a0873c6fea691d9, type: 2}
+  - {fileID: 2100000, guid: 038a78ebc4c561349afeb6f0228ec12b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2050,9 +2050,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'Romero Britto (2001)
+  m_Text: 'Kazimir Malevich (1915)
 
-    A new day'
+    Black Square
+
+    Oil on linen, 79.5 cm x 79.5 cm
+
+    Tretyakov Gallery, Moscow'
 --- !u!222 &559139495
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2161,7 +2165,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 038a78ebc4c561349afeb6f0228ec12b, type: 2}
+  - {fileID: 2100000, guid: 51c8dafd30590a04ba9e834c74b4041d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2513,8 +2517,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Gustav Klimt (1905)\nPortrait of Adele Bloch-Bauer I\nOil, silver, and
-    gold on canvas\n138 cm \xD7 138 cm\nNeue Galerie, New York"
+  m_Text: 'Romero Britto (2001)
+
+    A new day'
 --- !u!222 &711302977
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5587,7 +5592,7 @@ GameObject:
   - component: {fileID: 1889291050}
   - component: {fileID: 1889291049}
   m_Layer: 5
-  m_Name: Potato Panel
+  m_Name: Day Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
