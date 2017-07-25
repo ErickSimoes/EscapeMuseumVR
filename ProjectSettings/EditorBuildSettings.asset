@@ -18,5 +18,8 @@ EditorBuildSettings:
     path: Assets/Scenes/04-Museum.unity
     guid: 0d548af3c6079114287bb8546839f405
   - enabled: 1
+    path: Assets/Scenes/05-Museum.unity
+    guid: e1400ec536381dd4eb6a22f0470f7620
+  - enabled: 1
     path: Assets/Scenes/BaseScene.unity
     guid: cbd98daf037d444419859f99aa4c276b
