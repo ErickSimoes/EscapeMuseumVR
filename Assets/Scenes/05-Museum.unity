@@ -3822,7 +3822,7 @@ GameObject:
   - component: {fileID: 1113801815}
   - component: {fileID: 1113801814}
   m_Layer: 5
-  m_Name: Potato Panel
+  m_Name: Heros Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4849,8 +4849,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Vincent van Gogh (1885)\nThe Potato Eaters\n(Dutch: De Aardappeleters)\nOil
-    Painting, 82 cm \xD7 114 cm\nVan Gogh Museum, Amsterdam"
+  m_Text: 'Alex Ross
+
+    Kingdom Come: War
+
+    Paper Lithograph, 16" x 20"'
 --- !u!222 &1481804468
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4953,7 +4956,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 164190, guid: 14691c451e07ff94cb94be3f44e72ab7, type: 2}
       propertyPath: m_Name
-      value: potato
+      value: heros
       objectReference: {fileID: 0}
     - target: {fileID: 164190, guid: 14691c451e07ff94cb94be3f44e72ab7, type: 2}
       propertyPath: m_StaticEditorFlags
@@ -4963,6 +4966,14 @@ Prefab:
       propertyPath: m_ReflectionProbeUsage
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2378912, guid: 14691c451e07ff94cb94be3f44e72ab7, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 479e5ad90db0dcf45b06b665200721bf, type: 2}
+    - target: {fileID: 2378912, guid: 14691c451e07ff94cb94be3f44e72ab7, type: 2}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: de094bed07368f845b08ca49d35eac08, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 14691c451e07ff94cb94be3f44e72ab7, type: 2}
   m_IsPrefabParent: 0
