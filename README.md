@@ -26,4 +26,5 @@ Enter this art museum and learn about great artists from various eras. In each t
 
 ### Future features
 * Enrich the rooms with more themed objects;
+* Notify the user that the door behind it has been opened;
 * Add scoring system.
