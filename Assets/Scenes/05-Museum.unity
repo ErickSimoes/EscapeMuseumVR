@@ -4972,6 +4972,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1761687185}
   - component: {fileID: 1761687186}
+  - component: {fileID: 1761687187}
   m_Layer: 5
   m_Name: ColliderGameObject
   m_TagString: Untagged
@@ -5009,6 +5010,39 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2328.6702, y: 1336.0049, z: 0.13572896}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1761687187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1761687184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dbca64e524ea44f9b26142ec59aca8a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bypassRoomEffects: 0
+  directivityAlpha: 0
+  directivitySharpness: 1
+  listenerDirectivityAlpha: 0
+  listenerDirectivitySharpness: 1
+  gainDb: 0
+  occlusionEnabled: 0
+  playOnAwake: 1
+  sourceClip: {fileID: 8300000, guid: 43e17ffa949d1c1489de6c9fde7bdf09, type: 3}
+  sourceLoop: 1
+  sourceMute: 0
+  sourcePitch: 1
+  sourcePriority: 128
+  sourceSpatialBlend: 1
+  sourceDopplerLevel: 1
+  sourceSpread: 0
+  sourceVolume: 1
+  sourceRolloffMode: 0
+  sourceMaxDistance: 500
+  sourceMinDistance: 1
+  hrtfEnabled: 1
+  audioSource: {fileID: 0}
 --- !u!1001 &1800131418
 Prefab:
   m_ObjectHideFlags: 0
