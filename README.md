@@ -22,7 +22,7 @@ Enter this art museum and learn about great artists from various eras. In each t
 * The main scene (first) is the 01-Museum, located in the Scenes folder. When he loses, the player moves on to scenes 02, 03 ... to the 05-Museum, where he has the option to return to scene 01.
 
 ### Demo video
-[![Demo Escape Museum VR](https://j.gifs.com/LgjLLj.gif)](https://youtu.be/PzS2okTQw6w)
+[![Demo Escape Museum VR](https://raw.githubusercontent.com/ErickSimoes/email-icon/master/gifs/escape-museum-vr.gif)](https://youtu.be/PzS2okTQw6w)
 
 ### Features
 * On the home screen, the player is presented with the instructions before starting;
