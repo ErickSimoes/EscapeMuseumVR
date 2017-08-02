@@ -2690,7 +2690,6 @@ GameObject:
   - component: {fileID: 838483454}
   - component: {fileID: 838483457}
   - component: {fileID: 838483456}
-  - component: {fileID: 838483455}
   m_Layer: 5
   m_Name: Panel
   m_TagString: Untagged
@@ -2721,17 +2720,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &838483455
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 838483453}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f3d584f44463fba4d82aba72680dce01, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &838483456
 MonoBehaviour:
   m_ObjectHideFlags: 0
